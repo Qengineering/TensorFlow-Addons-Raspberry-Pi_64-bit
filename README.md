@@ -7,7 +7,14 @@ You must have TensorFlow installed on your Raspberry Pi.<br/>
 For the installation guide see [Install TensorFlow 2.4.0](https://qengineering.eu/install-tensorflow-2.4.0-on-raspberry-64-os.html) <br/>
 ## Wheels
 Please find your **linux-aarch64** installation wheel here. The **cpXX** number refers to your Python3 version.<br/>
-Ubuntu 20.04 (Python 3.8) -> Put a request!<br/>
-Ubuntu 18.04 (Python 3.6) -> Put a request!<br/>
+
+### 64-bit OS (Python 3.7)
+TensorFlow Addons installation files for the Raspberry Pi 3/4 with 64-bit operating system<br/>
+Use the Python wheel **tensorflow_addons-0.14.0.dev0-cp37-cp37m-linux_aarch64.whl**<br/><br/>
+### Ubuntu 20.04 (Python 3.8)
+TensorFlow Addons installation files for the Raspberry Pi 3/4 with Ubuntu 20.04 operating system <br/>
+Use the Python wheel **tensorflow_addons-0.14.0.dev0-cp38-cp38-linux_aarch64.whl**<br/><br/>
+### Ubuntu 18.04 (Python 3.6)
+Put a request!<br/>
 ### 32-bit OS
 Note, there are no wheels for the Raspberry Pi 4 **32-bit OS** given the cumbersome installing the latest ***huge*** TensorFlow versions on such a small device. You can find an RPi-32 Addons version at [Koen Vervloesem](https://github.com/koenvervloesem/tensorflow-addons-on-arm)
