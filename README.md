@@ -18,3 +18,8 @@ Use the Python wheel **tensorflow_addons-0.14.0.dev0-cp38-cp38-linux_aarch64.whl
 Put a request!<br/>
 ### 32-bit OS
 Note, there are no wheels for the Raspberry Pi 4 **32-bit OS** given the cumbersome installing the latest ***huge*** TensorFlow versions on such a small device. You can find an RPi-32 Addons version at [Koen Vervloesem](https://github.com/koenvervloesem/tensorflow-addons-on-arm)
+
+------------
+
+[![paypal](https://qengineering.eu/images/TipJarSmall4.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CPZTM5BB3FCYL) 
+
